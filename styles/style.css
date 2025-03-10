@@ -65,3 +65,36 @@ button{
 #aBack{
     background-color: red;
 }
+
+#divUser{
+    border: 2px solid black;
+    width: 40%;    
+    margin-right: 10px;    
+}
+
+#userPhoto{
+    width: 100%;
+    padding: 10px;    
+}
+
+#divUserMainBlockUser{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#divUserMainBlock{
+    display: flex;
+    flex-wrap: wrap;
+    width: 58%;
+}
+
+#divFavoriteMovies{
+    background-color: white;
+    width: 48%;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.h5Shadow{
+    text-shadow: 0px 0px 2px black;
+}
